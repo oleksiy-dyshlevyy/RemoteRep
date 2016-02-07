@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f34455
+=======
+f3
+>>>>>>> parent of 737daaa... MyFile\File3 changes
